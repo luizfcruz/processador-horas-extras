@@ -1,0 +1,14 @@
+{
+    "12345678911": {
+        "nome": "JOAQUIM DO NASCIMENTO",
+        "matricula": "12345",
+        "funcao": "MECANICO DE AUTOS",
+        "setor": "MANUTENCAO"
+    },
+    "11122233344": {
+        "nome": "MARIA APARECIDA DOS SANTOS",
+        "matricula": "22554",
+        "funcao": "ASSISTENTE ADMINISTRATIVA",
+        "setor": "SAUDE"
+    }
+}
