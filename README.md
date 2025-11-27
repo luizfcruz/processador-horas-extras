@@ -106,3 +106,6 @@ Projeto desenvolvido com apoio do **ChatGPT**, auxiliando na organização, lóg
 
 ## 📌 Licença
 Este projeto é de uso pessoal e pode ser adaptado livremente.
+
+
+📁 uploads/ — Esta pasta não faz parte do repositório porque contém arquivos carregados pelo usuário. O app cria automaticamente a pasta caso ela não exista.
