@@ -1,1 +1,3 @@
-
+pandas
+holidays
+pillow
