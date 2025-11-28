@@ -8,6 +8,10 @@ Este projeto nasceu de uma necessidade real: processar grandes volumes de regist
 ## 🖼️ Interface do Sistema
 
 <p align="center">
+  <img src="img/ChatGPT Image 27 de nov. de 2025, 21_00_43.png" width="100%">
+</p>
+
+<p align="center">
   <img src="img/interface_principal.png" width="60%">
 </p>
 
