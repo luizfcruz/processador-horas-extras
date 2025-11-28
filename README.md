@@ -8,7 +8,7 @@ Este projeto nasceu de uma necessidade real: processar grandes volumes de regist
 ## 🖼️ Interface do Sistema
 
 <p align="center">
-  <img src="img/ChatGPT Image 27 de nov. de 2025, 21_00_43.png" width="100%">
+  <img src="img/imagem_de_capa_git.png" width="100%">
 </p>
 
 <p align="center">
