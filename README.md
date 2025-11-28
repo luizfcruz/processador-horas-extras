@@ -8,10 +8,6 @@ Este projeto nasceu de uma necessidade real: processar grandes volumes de regist
 ## 🖼️ Interface do Sistema
 
 <p align="center">
-  <img src="img/imagem_de_capa_git.png" width="100%">
-</p>
-
-<p align="center">
   <img src="img/interface_principal.png" width="60%">
 </p>
 
